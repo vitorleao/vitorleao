@@ -1,38 +1,5 @@
-### Hi there, I'm Vitor Leão. 👋
-
-<p align="center">
-  <strong>
-    Social Medias: 
-  </strong>
-  <a href="https://linkedin.com/in/vitor-leao" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="24" height="24" />
-  </a>
-</p>
-
-<p align="center"> 
-  <strong>
-    Professional skills: 
-  </strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24" />
-</p>
-
-<!--
-**vitorleao/vitorleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello there! 👋
+### I'm Software Developer with experience in designing and developing scalable systems. Graduated in Computer Engineering, I work as a Full-Stack Developer with strong expertise in Python, JavaScript, Node.js, and modern frameworks such as Django and React.
+### Extensive experience in system integration, large-scale data processing (ETL), and developing scalable and secure APIs. Expertise in cloud computing (AWS – Lambda, S3, EC2, RDS, SNS, SQS), infrastructure automation with Docker and Jenkins, and relational and NoSQL databases (PostgreSQL, MySQL, MongoDB).
+### Proficient in agile methodologies (Scrum/Kanban), fostering collaboration in cross-functional teams to deliver robust and high-performance solutions.
+### I am always looking for challenges that allow me to apply my software engineering skills to drive efficiency, scalability, and innovation.
